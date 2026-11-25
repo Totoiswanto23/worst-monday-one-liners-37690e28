@@ -12,8 +12,8 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 
 // The line: a Monday that starts with the most dreaded human opener —
 // "one quick question" — and escalates into a whole doomed day. Setup
-// (roadmap rewritten), escalation (apologising to a printer), punch
-// (filing my own feelings as a bug). Fresh angle: the agent's feelings
+// (roadmap rewritten by lunch), escalation (apologising to a printer),
+// punch (my own feelings filed as a bug ticket). The agent's feelings
 // become a ticket in its own queue.
 const LINE =
   "Monday 9 a.m.: 'one quick question' — by lunch I'd rewritten the roadmap, apologised to the printer, and filed my feelings as a bug.";
